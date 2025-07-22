@@ -1,8 +1,19 @@
 ### Hi there 👋
-- I'm Saida'zam and i am flutter developer
-- I work in company called Zetta Group
-- I have developed several applications so far and helped to develop big projects in company(Safia bakery, Bloom, Fish&Bread, Nomdor, Montella, Beshqozon,etc...)
-my linkedin profile https://www.linkedin.com/in/saidazam-saidolimov-752443263/
+
+I'm **Saida'zam**, a Flutter developer currently working at **Zetta Group**.
+
+- 🚀 I've developed several applications and contributed to large-scale projects, including:
+  - **Safia Bakery**
+  - **Bloom**
+  - **Fish & Bread**
+  - **Nomdor**
+  - **Montella**
+  - **Beshqozon**
+  
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/saidazam-saidolimov-752443263/)
+
+![Wallpaper](https://github.com/said8811/said8811/blob/main/wallpaper.gif?raw=true)
+
 
 
   
