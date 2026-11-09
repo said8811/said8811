@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Saida'zam**, a Flutter developer currently working at **Zetta Group**.
+I'm **Saida'zam**, a Flutter developer currently working at **Rizo Global**.
 
 - 🚀 I've developed several applications and contributed to large-scale projects, including:
   - **Safia Bakery**
